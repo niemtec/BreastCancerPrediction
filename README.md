@@ -1,8 +1,6 @@
 # Using TensorFlow to Predict Cancer in Mammogram Data
 An experiment with the use of TensorFlow used for predicting whether a tumor sample is benign or metastasized.
 
-Original tutorial by [Arturo Guerrero](https://www.kaggle.com/arturogro) can be found [here](https://www.kaggle.com/arturogro/predict-breast-cancer-with-tensorflow?scriptVersionId=1540046).
-
 This experiment uses the [Breast Cancer Wisconsin (Diagnostic) Dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
 
 
